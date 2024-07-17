@@ -1,0 +1,1 @@
+In this project, we solve some problems in CUDA hands-on. These problems appear in [CS344](https://github.com/udacity/cs344), an old course on parallel programming by Nvidia and Udacity, and have been remastered in [this fork](https://github.com/Adeemj/cs344) to be compatible with Google Colab.
