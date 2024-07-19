@@ -6,12 +6,15 @@ In `colab-notebook.ipynb`, we discuss our full journey of CUDA with Colab, from 
 
 To play directly on Colab, create a copy upon clicking: [https://colab.research.google.com/drive/1ujEKAeK71D7-Jzf-FHvpz1B5lOcX3F7S?usp=sharing](https://colab.research.google.com/drive/1ujEKAeK71D7-Jzf-FHvpz1B5lOcX3F7S?usp=sharing)
 
-<img src="https://drive.google.com/uc?export=view&id=1lLxx9JxLuMZqrKufokpC17HTWRhJFH5I" width="500px">
+<!-- <img src="https://drive.google.com/uc?export=view&id=1lLxx9JxLuMZqrKufokpC17HTWRhJFH5I" width="500px"> -->
+![input](problem-1-images/cinque_terre_small.jpg)
 
 Conversion to greyscale:
 
-<img src="https://drive.google.com/uc?export=view&id=1X_VABMZxBYLyrOmhPGOIuRVFMOZ9xifx" width="500px">
+![greyscale](problem-1-images/HW1_output.png)
+<!-- <img src="https://drive.google.com/uc?export=view&id=1X_VABMZxBYLyrOmhPGOIuRVFMOZ9xifx" width="500px"> -->
 
 Gaussian blurring:
 
-<img src="https://drive.google.com/uc?export=view&id=13Vy9seUNQU5Gzv1YDWIYm_s1a6_1bBop" width="500px">
+![blurred](problem-2-images/HW2_output.png)
+<!-- <img src="https://drive.google.com/uc?export=view&id=13Vy9seUNQU5Gzv1YDWIYm_s1a6_1bBop" width="500px"> -->
