@@ -1,3 +1,5 @@
 In this project, we solve some problems in CUDA hands-on. These problems appear in [CS344](https://github.com/udacity/cs344), an archived course on parallel programming by Nvidia and Udacity, and have been remastered in [this fork](https://github.com/Adeemj/cs344) to be compatible with modern OpenCV syntax and Google Colab.
 
 In `cuda-test.cu`, we write a simple kernel (following one [lecture](https://www.youtube.com/watch?v=ByrK61fNVW0&list=PLAwxTw4SYaPm0z11jGTXRF7RuEEAgsIwH&index=31)) that squares every element in an array. We keep this as a clean template to CUDA's program flow.
+
+In `colab-notebook.ipynb`, we discuss our full journey of CUDA with Colab, from basic experimentation, to installing `nvcc4jupyter`, to solving Problem 1 and Problem 2 of the CS344 problem sets. We encourage feedback for further experimentation.
