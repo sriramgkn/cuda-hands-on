@@ -9,7 +9,9 @@ To play directly on Colab, create a copy upon clicking: [https://colab.research.
 <img src="https://drive.google.com/uc?export=view&id=1lLxx9JxLuMZqrKufokpC17HTWRhJFH5I" width="500px">
 
 Conversion to greyscale:
+
 <img src="https://drive.google.com/uc?export=view&id=1X_VABMZxBYLyrOmhPGOIuRVFMOZ9xifx" width="500px">
 
 Gaussian blurring:
+
 <img src="https://drive.google.com/uc?export=view&id=13Vy9seUNQU5Gzv1YDWIYm_s1a6_1bBop" width="500px">
